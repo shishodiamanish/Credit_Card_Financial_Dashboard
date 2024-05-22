@@ -2,7 +2,9 @@
 Power  BI Dashboard
 
 Project Objective - Developed a credit card weekly dashboard that provides real time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+
 Dataset - Financial Dataset
+
 Steps - 1. Data from SQL
         2. Data Processing & DAX Quaries
         3. Dashboard & Insights

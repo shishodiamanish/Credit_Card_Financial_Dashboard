@@ -9,7 +9,7 @@ Steps -
 
         1. Data from SQL
 
-        2. Data Processing & DAX Quaries
+        2. Data Processing & DAX Queries
         
         3. Dashboard & Insights
         

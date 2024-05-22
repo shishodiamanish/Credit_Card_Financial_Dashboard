@@ -17,7 +17,7 @@ Steps -
         
 Insights - 
 
-        1. Revenue increased by 28.8%
+           1. Revenue increased by 28.8%
 
            2. Overall Revenue is 57M
            

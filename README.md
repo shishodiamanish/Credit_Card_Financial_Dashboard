@@ -5,7 +5,9 @@ Project Objective - Developed a credit card weekly dashboard that provides real 
 
 Dataset - Financial Dataset
 
-Steps - 1. Data from SQL
+Steps -     
+
+        1. Data from SQL
 
         2. Data Processing & DAX Quaries
         
@@ -13,7 +15,9 @@ Steps - 1. Data from SQL
         
         4. Export & Share
         
-Insights - 1. Revenue increased by 28.8%
+Insights - 
+
+        1. Revenue increased by 28.8%
 
            2. Overall Revenue is 57M
            
